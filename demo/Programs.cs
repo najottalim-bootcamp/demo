@@ -1,6 +1,11 @@
-﻿namespace demo
+﻿
+namespace demo
 {
-    public class Programcs
+    public class Programs
     {
+        void Main()
+        {
+            Console.WriteLine("Test pull request");
+        }
     }
 }
